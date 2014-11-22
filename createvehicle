@@ -15,7 +15,7 @@
 5 "_122"
 5 "_227"
 1 "Bo_"
-5 "_AA" !"Soldier_Bodyguard_AA12_PMC_DZ" !="BAF_Soldier_AAT_DDPM" !="US_Army_Soldier_AA" !="Soldier_Bodyguard_AA12_PMC_DZ" !="USMC_Soldier_AA"
+5 "_AA" !"Soldier_Bodyguard_AA12_PMC_DZ" !="TK_INS_Soldier_AA_EP1" !="BAF_Soldier_AAT_DDPM" !="US_Army_Soldier_AA" !="Soldier_Bodyguard_AA12_PMC_DZ" !="USMC_Soldier_AA"
 5 "_AT" !="R_M136_AT" !="BAF_Soldier_AT_DDPM" !="CZ_Soldier_AT_DES_EP1" !="US_Soldier_AT_EP1" !="Navy_SEAL_AT" !="gsc_military_helmet_wdl_AT" !="gsc_military_helmet_grey_AT" !="gsc_military_head_wdl_AT" !="gsc_military_head_grey_AT" !="Desert_SOF_AT" !="US_Army_Soldier_AT"
 1 "R_M136_AT" //keep monitoring to catch obvious abuse
 5 "_AP"
